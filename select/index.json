@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "BRAND NEW SONG",
+  "base_artist": "KinKi Kids",
+  "createdAt": "2025-12-16T11:17:58.014125Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New Song",
+      "artist": "Reel Big Fish",
+      "has_synced": true,
+      "path": "select/01_Brand_New_Song_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Brand New Song",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/02_A_Brand_New_Song_John_Mellencamp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Flame Still Burns (brand new song!)",
+      "artist": "Foreigner",
+      "has_synced": true,
+      "path": "select/03_The_Flame_Still_Burns_(brand_new_song!)_Foreigner.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Old Accordion [B-Side of Brand New Song]",
+      "artist": "Cliff Richard",
+      "has_synced": false,
+      "path": "select/04_The_Old_Accordion_[B-Side_of_Brand_New_Song]_Cliff_Richard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Brand New Song",
+      "artist": "John Cougar",
+      "has_synced": true,
+      "path": "select/05_A_Brand_New_Song_John_Cougar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brand New Song",
+      "artist": "Reel Big Fish, Reel Big Fish",
+      "has_synced": true,
+      "path": "select/06_Brand_New_Song_Reel_Big_Fish,_Reel_Big_Fish.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brand New Song",
+      "artist": "Diesel",
+      "has_synced": true,
+      "path": "select/07_Brand_New_Song_Diesel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Brand New Song",
+      "artist": "Cliff Richard",
+      "has_synced": false,
+      "path": "select/08_A_Brand_New_Song_Cliff_Richard.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Brand New Song (Album Version)",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/09_A_Brand_New_Song_(Album_Version)_John_Mellencamp.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Until The End Of Days (brand new song)",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/10_Until_The_End_Of_Days_(brand_new_song)_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brand New Song",
+      "artist": "SEIKIMA-II",
+      "has_synced": true,
+      "path": "select/11_Brand_New_Song_SEIKIMA-II.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Brand New Song",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/12_A_Brand_New_Song_John_Mellencamp.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Reel Big Fish Brand New Song",
+      "artist": "Reel Big Fish",
+      "has_synced": false,
+      "path": "select/13_Reel_Big_Fish_Brand_New_Song_Reel_Big_Fish.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Brand New Song",
+      "artist": "Mellencamp, John 'Cougar'",
+      "has_synced": true,
+      "path": "select/14_A_Brand_New_Song_Mellencamp,_John_'Cougar'.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Brand New Song",
+      "artist": "Love Song",
+      "has_synced": false,
+      "path": "select/15_A_Brand_New_Song_Love_Song.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BRAND NEW SONG",
+      "artist": "KinKi Kids",
+      "has_synced": false,
+      "path": "select/pl_01_BRAND_NEW_SONG_KinKi_Kids.txt"
+    }
+  ]
+}
